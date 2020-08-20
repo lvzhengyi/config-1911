@@ -1,3 +1,6 @@
+my: 
+  name: 老王
+
 spring:
   redis:
     database: 0
